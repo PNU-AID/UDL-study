@@ -1,7 +1,7 @@
 ---
 title: About
-author: Tao He
-date: 2022-02-04
+author: Sihyeong Park
+date: 2024-04-08
 category: Jekyll
 layout: post
 ---
