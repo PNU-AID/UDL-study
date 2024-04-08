@@ -10,11 +10,12 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://sihyeong671.github.io'
-baseurl:          '/jekyll-gitbook'
+localurl:         'http://127.0.0.1:4000'
+baseurl:          '/UDL'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: sihyeong671/jekyll-gitbook
+remote_theme: sihyeong671/UDL
 
 toc:
   enabled: true
